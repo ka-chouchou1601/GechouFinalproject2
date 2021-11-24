@@ -27,20 +27,23 @@ export const categories=[
     {
         id:1,
         img:"https://images.pexels.com/photos/3576559/pexels-photo-3576559.jpeg?cs=srgb&dl=pexels-sophia-moss-3576559.jpg&fm=jpg",
-        title: "CONTRACEPTIVE PILLS",
+        title: "ellaone",
+        cat:"CONTRACEPTIVE PILLS"
        
     },
 
     {
         id:1,
         img:"https://images.pexels.com/photos/5938439/pexels-photo-5938439.jpeg?cs=srgb&dl=pexels-sora-shimazaki-5938439.jpg&fm=jpg",
-        title: "FACE MASK",
+        title: "Masks",
+        cat: "PERSONAL CARE PRODUCT"
         
     },
     {
         id:1,
         img:"https://images.pexels.com/photos/3373739/pexels-photo-3373739.jpeg?cs=srgb&dl=pexels-shiny-diamond-3373739.jpg&fm=jpg",
-        title: "MAKE UP BAGS ",
+        title: "Chousnellor Make up Bag ",
+        cat:"MAKE UP BAG"
        
     },
 
