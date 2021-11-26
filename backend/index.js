@@ -11,7 +11,7 @@ const stripeRoute = require("./routes/stripe");
 dotenv.config();
 
 mongoose.connect(
-   process.env.MONGO_URL
+    process.env.MONGO_URL
     )
     .then(()=>console.log("DB connection successful"))
     .catch ((err)=>{
