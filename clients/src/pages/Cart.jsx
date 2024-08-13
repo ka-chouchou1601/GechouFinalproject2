@@ -252,7 +252,7 @@ const Cart = () => {
             </SummaryItem>
             <StripeCheckout
               name="Gechou"
-              image="https://www.pexels.com/fr-fr/photo/bois-de-chauffage-feu-epice-fumer-7918442/"
+              image="https://static.vecteezy.com/system/resources/previews/002/412/558/non_2x/hair-woman-and-face-logo-and-symbols-free-vector.jpg"
               billingAddress
               shippingAddress
               description={`Your total is $${cart.total}`}
